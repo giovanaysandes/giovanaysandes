@@ -2,6 +2,8 @@
   ##
 <h1 align="center">Olá! Meu nome é Giovana </h1>
 
+ <img align="right" alt="hamster" src="https://media.giphy.com/media/9uJ3UdiRQhY4jOGZDF/giphy.gif" width="150" height="150">
+ 
  <h3 align="center">Tenho 19 anos e atualmente sou estudante de ADS 👩‍💻 Gosto muito de Front-end e Design !! </br>
  Ainda sou novata na área, logo meus projetos são simples, porém feitos com muita dedicação 🌼 </br>
  Espero que goste ! 💞</h3>
