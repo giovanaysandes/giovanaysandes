@@ -9,10 +9,10 @@
  Espero que goste  💖<br/>
  
  </br>
- <div style="display: inline_block">
+  <div>
   <a href="https://github.com/giovanaysandes">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovanaysandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaysandes&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giovanaysandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaysandes&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
  <img align="right" alt="hamster" src="https://media.giphy.com/media/Moxsczvnqb3SU/giphy.gif" width="150" height="130">
