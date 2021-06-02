@@ -9,7 +9,7 @@
  Espero que goste  💖<br/>
  
  </br>
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/giovanaysandes">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=giovanaysandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanaysandes&layout=compact&langs_count=16&theme=dracula"/>
