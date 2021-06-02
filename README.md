@@ -5,7 +5,6 @@
 
  
  <h3 align="center">Tenho 19 anos e atualmente sou estudante de ADS 👩‍💻 Gosto muito de Front-end e Design !! </br>
- <img align="right" alt="hamster" src="https://media.giphy.com/media/Moxsczvnqb3SU/giphy.gif" width="150" height="130">
  Ainda sou novata na área, logo meus projetos são simples, porém feitos com muita dedicação 🌼 </br>
  Espero que goste  💖<br/>
  
