@@ -1,5 +1,5 @@
 
-## Olá! Meu nome é Giovana Yukari, tenho 19 ano e atualmente sou estudante de ADS na Mackenzie 👩‍💻 </br>
+## Olá! Meu nome é Giovana Yukari, tenho 19 ano e atualmente sou estudante de ADS na Mackenzie 👩‍💻 
  Gosto muito de Front-end e Design </br>
  Ainda sou bem novata na área, logo os projetos são simples, porém feitos com muita dedicação 🌼 
  #Espero que goste ! 💞
