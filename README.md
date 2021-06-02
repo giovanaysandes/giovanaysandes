@@ -27,7 +27,7 @@
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
  
- <img align="right" alt="hamster" src="https://media.giphy.com/media/Moxsczvnqb3SU/giphy.gif" width="150" height="150">
+ <img align="left" alt="hamster" src="https://media.giphy.com/media/Moxsczvnqb3SU/giphy.gif" width="150" height="150">
 </div>
   
   
