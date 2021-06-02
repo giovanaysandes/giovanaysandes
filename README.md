@@ -8,6 +8,7 @@
  Ainda sou novata na área, logo meus projetos são simples, porém feitos com muita dedicação 🌼 </br>
  <br/>
  
+ 
  <div>
   <a href="https://github.com/giovanaysandes">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giovanaysandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
