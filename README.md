@@ -1,13 +1,7 @@
 
   ##
-<h1 align="center">Olá! Meu nome é Giovana ! </h1>
+<h1 align="center">Olá! </h1>
 
-
- 
- <h3 align="center">Tenho 19 anos e atualmente sou estudante de ADS 👩‍💻 Gosto muito de Front-end e Design !! </br>
- Ainda sou novata na área, logo, meus projetos são simples, porém feitos com muita dedicação 🌼 </br>
- Espero que goste  💖<br/>
- 
  </br>
   <div>
   <a href="https://github.com/giovanaysandes">
